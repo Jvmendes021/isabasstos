@@ -1,3 +1,5 @@
+<div align="center">
+
 # Isabelle B. Bastos
 
 ### Quem sou eu? 👩🏻‍💻
@@ -34,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
