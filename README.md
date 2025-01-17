@@ -4,9 +4,9 @@
 
 ### Quem sou eu? 👩🏻‍💻
 
-Apaixonada por tecnologia.  
+Apaixonada por tecnologia. <br>
 Estudo Análise e Desenvolvimento de Sistemas e busco realizar cursos que me auxiliam no desenvolvimento das hard-skills que o mercado busca. Sou iniciante no mundo dos códigos, por isso quero colocar mais a mão na massa para realmente aplicar meus conhecimentos.  
-Minhas áreas de interesse são Back-end e IA (Inteligência Artificial).   Estou disposta a contribuir 🤍
+Minhas áreas de interesse são Back-end e IA (Inteligência Artificial).<br>   Estou disposta a contribuir 🤍
 
 ## Conecte-se comigo 🔎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-965?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabellebrancobastos)
